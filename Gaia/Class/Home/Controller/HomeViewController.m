@@ -19,6 +19,9 @@
     [super viewDidLoad];self.view.backgroundColor = [UIColor whiteColor];
     
     self.title = @"首页";
+    self.title = @"首页";
+    self.title = @"首页";self.title = @"首页";
+    
     
     UIImageView *imageView = [[UIImageView alloc]initWithFrame:CGRectMake(0, 0, self.view.bounds.size.width, 300)];
     imageView.image = [UIImage imageNamed:@"品牌默认"];
